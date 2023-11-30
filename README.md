@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://github.com/pettyvelasques">
-  <img src="https://komarev.com/ghpvc/?username=pettyvelasques&style=plastic&label=Stalker+visits" alt="pettyvelasques" />
+  <a href="https://github.com">
+  <img src="https://komarev.com/ghpvc/?username=pettyvelasques&style=plastic&label=Stalker+visits" alt="guilhermecruci" />
 </p>
 
 <p align="center">
@@ -17,12 +17,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
-  
-  
-  <a>![Snake animation](https://github.com/Pettyvelasques/guilhermecruci/blob/output/github-contribution-grid-snake.svg)</a>
-</p>
