@@ -1,22 +1,31 @@
-<p align="left">
-  <a href="https://github.com">
-  <img src="https://komarev.com/ghpvc/?username=pettyvelasques&style=plastic&label=Stalker+visits" alt="guilhermecruci" />
-</p>
+<h1 align="center">Olá! Eu sou Guilherme, mas todos me chamam de Cruci 👋</h1>
+
+<p align="center">Sou um estudante de desenvolvimento de software apaixonado por tecnologia e aprendizado contínuo. Aqui você encontrará alguns dos meus projetos e contribuições.</p>
+
+<h2 align="center">Linguagens e Tecnologias</h2>
 
 <p align="center">
-  <a href="https://instagram.com/guilherme_cruci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="GUilherme_cruci" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/guilherme cruci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guilherme cruci" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="50" height="50"/>
 </p>
 
-<h1 align="center">Olá, eu sou Guilherme Cruci</h1>
-<h4 align="center">atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech e estudando por conta própria para aprimorar meus conhecimentos</h4>
+<h2 align="center">Contato</h2>
 
-<div align="center">
-</div>
-<br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
+  <a href="https://www.linkedin.com/in/guilherme-christofani-cruci-7616141b4/">LinkedIn</a> |
+  <a href="mailto:guilhermecruci0103@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! 😊</p>
+
+<p align="center">
+  <img src="https://shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/seu-usuario-seu-repo/visits" alt="Contador de visitas"/>
+</p>
