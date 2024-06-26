@@ -25,7 +25,3 @@
 ---
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
-
-<p align="center">
-  <img src="https://shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/seu-usuario-seu-repo/visits" alt="Contador de visitas"/>
-</p>
