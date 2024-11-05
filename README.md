@@ -16,10 +16,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guilhermecruci/guilhermecruci/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="16" />
